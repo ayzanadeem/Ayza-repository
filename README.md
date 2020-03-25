@@ -1,1 +1,3 @@
-# Ayza-repository
+#Course Schedule Maker
+
+
